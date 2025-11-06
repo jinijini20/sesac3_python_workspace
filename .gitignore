@@ -386,3 +386,14 @@ $RECYCLE.BIN/
 # Streamlit secrets
 .streamlit/
 .streamlit/secrets.toml
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/*
+
+# VSCode/Jupyter virtual documents
+.virtual_documents/
+
+# Anaconda projects
+anaconda_projects/
